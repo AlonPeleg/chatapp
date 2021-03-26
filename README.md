@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 
-sites is hosted on netlify - https://ap-my-chat-app.netlify.app/
+Site is hosted on netlify - https://ap-my-chat-app.netlify.app/
 
 for testing there are two users:
 User: UserOneTest
