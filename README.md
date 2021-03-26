@@ -9,14 +9,12 @@ In the project directory, you can run:
 ### `npm start`
 
 
-Site is hosted on netlify - https://ap-my-chat-app.netlify.app/
 
-for testing there are two users:
-User: UserOneTest
-Test: 123123
+there's no logout function yet.
+problem with side menus while viewing on a mobile device (vertical)
 
-User: UserTwoTest
-Pass:123123
+
+Site is hosted on netlify - `https://ap-my-chat-app.netlify.app/` - no demo users at this moment due to lack of logout function.
 
 Users / groups can be managed on https://chatengine.io/
 change projectID in App.js and LoginForm.jsx to run your own chat app
