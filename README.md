@@ -16,5 +16,5 @@ problem with side menus while viewing on a mobile device (vertical)
 
 Site is hosted on netlify - `https://ap-my-chat-app.netlify.app/` - no demo users at this moment due to lack of logout function.
 
-Users / groups can be managed on https://chatengine.io/
+Users / groups can be managed on  `https://chatengine.io/`
 change projectID in App.js and LoginForm.jsx to run your own chat app
